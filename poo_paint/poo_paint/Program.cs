@@ -8,12 +8,17 @@ namespace poo_paint
 {
     public class retangulo
     {
-        public int x; public int y; public int l; public int a;
+        public int x;
+        public int y;
+        public int l;
+        public int a;
+   
         static void Main(string[] args)
         {    
-            retangulo r1 = new retangulo( x, y, l,  a);
+
+           retangulo r1 = new retangulo( int x, int y, int l, int a);
         }
-    }
+   }
 }
 
 
