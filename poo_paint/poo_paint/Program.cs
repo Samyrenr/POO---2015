@@ -12,11 +12,16 @@ namespace poo_paint
         public int y;
         public int l;
         public int a;
-   
+
+        public String imprime()
+        {
+            return "Retangulo[x:34, y:20, l:300, a 400]";
+        }
         static void Main(string[] args)
         {    
 
-           retangulo r1 = new retangulo( int x, int y, int l, int a);
+           retangulo r1 = new retangulo();
+            
         }
    }
 }
