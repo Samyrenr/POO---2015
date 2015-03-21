@@ -20,12 +20,11 @@ namespace poo_paint
             this.l = l;
             this.a = a;
         }
-
         public String imprime()
         {
            return "Retangulo [x:" + x + "y" + y + "l" + l + "a" + a + "]";
         }
-       static void main(string Args[])
+       static void main(string[]args)
        {
 
        }
