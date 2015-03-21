@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using poo_paint;
 
 namespace Teste01Poo
 {
@@ -9,7 +10,7 @@ namespace Teste01Poo
         [TestMethod]
         public void testaimprime()
         {
-            retangulo r1 = new retangulo()
+            Retangulo r1 = new Retangulo(x, y, l, a);
         }
     }
 }

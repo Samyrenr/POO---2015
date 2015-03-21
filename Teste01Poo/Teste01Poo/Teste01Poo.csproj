@@ -35,9 +35,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Retangulo.vshost">
-      <HintPath>..\..\..\..\..\Documents\Visual Studio 2013\Projects\Retangulo\Retangulo\bin\Debug\Retangulo.vshost.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -55,6 +52,12 @@
   <ItemGroup>
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\poo_paint\poo_paint\poo_paint.csproj">
+      <Project>{974b6557-152b-4e35-8a73-4d6e666773df}</Project>
+      <Name>poo_paint</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
