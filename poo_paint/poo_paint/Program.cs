@@ -23,9 +23,12 @@ namespace poo_paint
 
         public String imprime()
         {
-           
+           return "Retangulo [x:" + x + "y" + y + "l" + l + "a" + a + "]";
         }
-       
+       static void main(string Args[])
+       {
+
+       }
    }
 }
 
