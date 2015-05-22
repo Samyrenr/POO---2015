@@ -1,0 +1,16 @@
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\bin\Debug\poo-paint.exe.config
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\obj\Debug\poo-paint.csprojResolveAssemblyReference.cache
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\bin\Debug\poo-paint.exe
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\bin\Debug\poo-paint.pdb
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\obj\Debug\poo-paint.exe
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\obj\Debug\poo-paint.pdb
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\obj\Debug\poo_paint.AreaDeDesenho.resources
+C:\Users\André\Source\Repos\poo-2015\poo-paint\poo-paint\obj\Debug\poo-paint.csproj.GenerateResource.Cache
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\bin\Debug\poo-paint.exe.config
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\obj\Debug\poo-paint.exe
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\obj\Debug\poo-paint.pdb
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\bin\Debug\poo-paint.exe
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\bin\Debug\poo-paint.pdb
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\obj\Debug\poo-paint.csprojResolveAssemblyReference.cache
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\obj\Debug\poo_paint.AreaDeDesenho.resources
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\poo-paint\obj\Debug\poo-paint.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.csprojResolveAssemblyReference.cache
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\bin\Debug\TesteRetangulo.dll
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\bin\Debug\TesteRetangulo.pdb
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\bin\Debug\poo-paint.exe
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\bin\Debug\poo-paint.pdb
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.dll
+C:\Users\André\Source\Repos\poo-2015\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.pdb
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.csprojResolveAssemblyReference.cache
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.dll
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\bin\Debug\TesteRetangulo.dll
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\bin\Debug\TesteRetangulo.pdb
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\bin\Debug\poo-paint.exe
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\bin\Debug\poo-paint.pdb
+C:\Users\samyr\Dropbox\1 UNA ADS\3° Periodo\2 Programação Orientada e Objetos\03 Respostas POO\poo-paint\TesteRetangulo\obj\Debug\TesteRetangulo.pdb
